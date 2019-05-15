@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog>
+    <item>
+        <product>Хлебушек</product>
+        <maker>Кобринский хлебозавод</maker>
+        <UNP>6</UNP>
+        <amount>нет на складе</amount>
+        <address>
+            <country>Беларусь</country>
+            <region>Брестская область</region>
+            <city>Кобрин</city>
+            <street>Советская</street>
+            <house>4</house>
+        </address>
+    </item>
+
+    <item>
+        <product>Laptop</product>
+        <maker>Xiaomi</maker>
+        <UNP>36</UNP>
+        <amount>78</amount>
+        <address>
+            <country>Беларусь</country>
+            <region>Минская область</region>
+            <city>Минск</city>
+            <street>Мстиславца</street>
+            <house>11</house>
+        </address>
+    </item>
+
+    <item>
+        <product>Smartphone</product>
+        <maker>Xiaomi</maker>
+        <UNP>3</UNP>
+        <amount>780</amount>
+        <address>
+            <country>Беларусь</country>
+            <region>Минская область</region>
+            <city>Минск</city>
+            <street>Мстиславца</street>
+            <house>11</house>
+        </address>
+    </item>
+
+    <item>
+        <product>Earpods</product>
+        <maker>Xiaomi</maker>
+        <UNP>100</UNP>
+        <amount>34</amount>
+        <address>
+            <country>Беларусь</country>
+            <region>Минская область</region>
+            <city>Минск</city>
+            <street>Мстиславца</street>
+            <house>11</house>
+        </address>
+    </item>
+
+    <item>
+        <product>Earpods</product>
+        <maker>Panasonic</maker>
+        <UNP>1</UNP>
+        <amount>4</amount>
+        <address>
+            <country>Россия</country>
+            <region>Московская область</region>
+            <city>Москва</city>
+            <street>Шаболовка</street>
+            <house>34</house>
+            <flat>4</flat>
+        </address>
+    </item>
+
+    <item>
+        <product>Earpods</product>
+        <maker>Apple</maker>
+        <UNP>81</UNP>
+        <amount>47</amount>
+        <address>
+            <country>Беларусь</country>
+            <region>Минская область</region>
+            <city>Минск</city>
+            <street>Победителей</street>
+            <house>9</house>
+        </address>
+    </item>
+
+    <item>
+        <product>Iphone</product>
+        <maker>Apple</maker>
+        <UNP>8</UNP>
+        <amount>7</amount>
+        <address>
+            <country>Беларусь</country>
+            <region>Минская область</region>
+            <city>Минск</city>
+            <street>Победителей</street>
+            <house>9</house>
+        </address>
+    </item>
+
+    <item>
+        <product>MacBook</product>
+        <maker>Apple</maker>
+        <UNP>90</UNP>
+        <amount>нет на складе</amount>
+        <address>
+            <country>Беларусь</country>
+            <region>Минская область</region>
+            <city>Минск</city>
+            <street>Победителей</street>
+            <house>9</house>
+        </address>
+    </item>
+
+    <item>
+        <product>IPad</product>
+        <maker>Apple</maker>
+        <UNP>81</UNP>
+        <amount>987</amount>
+        <address>
+            <country>Беларусь</country>
+            <region>Минская область</region>
+            <city>Минск</city>
+            <street>Победителей</street>
+            <house>9</house>
+        </address>
+    </item>
+
+    <item>
+        <product>Ipod</product>
+        <maker>Apple</maker>
+        <UNP>1</UNP>
+        <amount>470</amount>
+        <address>
+            <country>Беларусь</country>
+            <region>Минская область</region>
+            <city>Минск</city>
+            <street>Победителей</street>
+            <house>9</house>
+        </address>
+    </item>
+
+    <item>
+        <product>Iwatch</product>
+        <maker>Apple</maker>
+        <UNP>32</UNP>
+        <amount>22</amount>
+        <address>
+            <country>Беларусь</country>
+            <region>Минская область</region>
+            <city>Минск</city>
+            <street>Победителей</street>
+            <house>9</house>
+        </address>
+    </item>
+
+    <item>
+        <product>MiBand</product>
+        <maker>Xiaomi</maker>
+        <UNP>90</UNP>
+        <amount>нет на складе</amount>
+        <address>
+            <country>Беларусь</country>
+            <region>Минская область</region>
+            <city>Минск</city>
+            <street>Мстиславца</street>
+            <house>11</house>
+        </address>
+    </item>
+
+    <item>
+        <product>Bag</product>
+        <maker>Xiaomi</maker>
+        <UNP>13</UNP>
+        <amount>98</amount>
+        <address>
+            <country>Беларусь</country>
+            <region>Минская область</region>
+            <city>Минск</city>
+            <street>Мстиславца</street>
+            <house>11</house>
+        </address>
+    </item>
+</catalog>
